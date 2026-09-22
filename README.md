@@ -12,7 +12,6 @@
 <p>
   <a href="https://github.com/Qlunee?tab=followers"><img src="https://img.shields.io/github/followers/Qlunee?label=Followers&style=flat-square&color=6C63FF" alt="GitHub followers"></a>
   <a href="https://github.com/Qlunee?tab=repositories"><img src="https://img.shields.io/badge/AI%20Infra-Projects-6C63FF?style=flat-square&logo=github" alt="AI Infra projects"></a>
-  <a href="https://qlunee.github.io"><img src="https://img.shields.io/badge/Blog-Visit-6C63FF?style=flat-square&logo=githubpages&logoColor=white" alt="Blog"></a>
 </p>
 
 </div>
@@ -86,7 +85,6 @@ GPU Performance
 
 - [`AIInfra`](https://github.com/Qlunee/AIInfra) — experiments and implementations around AI infrastructure
 - [`AI_infra_learning`](https://github.com/Qlunee/AI_infra_learning) — learning notes and notebooks on AI infrastructure
-- [`Qlunee.github.io`](https://github.com/Qlunee/Qlunee.github.io) — personal blog and technical notes
 
 ## GitHub Activity
 
