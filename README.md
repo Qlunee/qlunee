@@ -19,12 +19,18 @@
 
 ---
 
+## About Me
+
+- 🎓 Master's student at **University of Electronic Science and Technology of China (UESTC)**
+- ⚙️ Focused on **AI infrastructure** and **LLM inference acceleration**
+- 🚀 Exploring efficient LLM serving systems and high-performance GPU kernels
+
 ## Featured Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2><a href="https://github.com/Qlunee/SLOPrefill">⚡ SLOPrefill</a></h2>
+      <p><strong>⚡ <a href="https://github.com/Qlunee/SLOPrefill">SLOPrefill</a></strong></p>
       <p><strong>SLO-aware prefill optimization for LLM serving.</strong></p>
       <p>Exploring how prefill scheduling and resource management can improve inference efficiency while meeting latency service-level objectives.</p>
       <p>
@@ -34,7 +40,7 @@
       <p><em>🚧 Building in public</em></p>
     </td>
     <td width="50%" valign="top">
-      <h2><a href="https://github.com/Qlunee/LLM-TensorCore-HGEMM">🔥 LLM TensorCore HGEMM</a></h2>
+      <p><strong>🔥 <a href="https://github.com/Qlunee/LLM-TensorCore-HGEMM">LLM TensorCore HGEMM</a></strong></p>
       <p><strong>High-performance half-precision GEMM for LLM inference.</strong></p>
       <p>Exploring CUDA Tensor Core kernels, memory access patterns and low-level optimization for efficient model execution.</p>
       <p>
