@@ -5,7 +5,7 @@
 ### AI Infrastructure · LLM Inference Acceleration
 
 <p>
-  Exploring efficient serving systems, SLO-aware optimization<br/>
+  Exploring efficient serving systems, Prefill–Decode disaggregation, SLO-aware optimization<br/>
   and high-performance GPU kernels for large language models.
 </p>
 
@@ -23,6 +23,7 @@
 
 - 🎓 Master's student at **University of Electronic Science and Technology of China (UESTC)**
 - ⚙️ Focused on **AI infrastructure** and **LLM inference acceleration**
+- 🔀 Researching **Prefill–Decode (PD) disaggregation** for efficient LLM serving
 - 🚀 Exploring efficient LLM serving systems and high-performance GPU kernels
 
 ## Featured Work
@@ -57,6 +58,7 @@
 ```text
 LLM Inference
 ├── Serving systems & runtime architecture
+├── Prefill–Decode (PD) disaggregation
 ├── SLO-aware scheduling and latency optimization
 ├── Prefill / decode execution characteristics
 └── Throughput, latency and resource efficiency
