@@ -86,13 +86,6 @@ GPU Performance
 - [`AIInfra`](https://github.com/Qlunee/AIInfra) — experiments and implementations around AI infrastructure
 - [`AI_infra_learning`](https://github.com/Qlunee/AI_infra_learning) — learning notes and notebooks on AI infrastructure
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Qlunee&show_icons=true&hide_border=true&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=888888" alt="Qlunee's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qlunee&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF&text_color=888888" alt="Most used languages" />
-</div>
-
 <div align="center">
 
 ### Building faster paths from models to production.
