@@ -31,8 +31,8 @@
   <tr>
     <td width="50%" valign="top">
       <p><strong>⚡ <a href="https://github.com/Qlunee/SLOPrefill">SLO-Aware LLM Serving Engine</a></strong></p>
-      <p><strong>SLO-aware prefill optimization for LLM serving.</strong></p>
-      <p>Exploring how prefill scheduling and resource management can improve inference efficiency while meeting latency service-level objectives.</p>
+      <p><strong>SLO-aware online inference scheduling and quantized KV-cache optimization.</strong></p>
+      <p>Extending nano-vLLM with mixed Prefill/Decode batching, decode-slack adaptive scheduling, and an FP8 paged KV cache with optimized GQA decode kernels to improve TTFT/ITL SLO goodput and long-context memory efficiency.</p>
       <p>
         <img src="https://img.shields.io/badge/Focus-LLM%20Serving-6C63FF?style=flat-square" alt="LLM Serving">
         <img src="https://img.shields.io/badge/Focus-SLO%20Optimization-00A98F?style=flat-square" alt="SLO Optimization">
