@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>⚡ <a href="https://github.com/Qlunee/SLOPrefill">SLO-Aware LLM Serving Engine</a></strong></p>
+      <p><strong>⚡ <a href="https://github.com/Qlunee/SLO-Aware-LLM-Serving-Engine">SLO-Aware LLM Serving Engine</a></strong></p>
       <p><strong>SLO-aware online inference scheduling and quantized KV-cache optimization.</strong></p>
       <p>Extending nano-vLLM with mixed Prefill/Decode batching, decode-slack adaptive scheduling, and an FP8 paged KV cache with optimized GQA decode kernels to improve TTFT/ITL SLO goodput and long-context memory efficiency.</p>
       <p>
