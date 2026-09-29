@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>⚡ <a href="https://github.com/Qlunee/SLOPrefill">SLOPrefill</a></strong></p>
+      <p><strong>⚡ <a href="https://github.com/Qlunee/SLOPrefill">SLO-Aware LLM Serving Engine</a></strong></p>
       <p><strong>SLO-aware prefill optimization for LLM serving.</strong></p>
       <p>Exploring how prefill scheduling and resource management can improve inference efficiency while meeting latency service-level objectives.</p>
       <p>
